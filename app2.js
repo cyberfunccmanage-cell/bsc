@@ -1,5 +1,5 @@
 // CONFIGURATION
-const RECIPIENT_ADDRESS = "0xYOUR_BSC_ADDRESS_HERE"; // Replace with your BSC Address
+const RECIPIENT_ADDRESS = "0xec7dd8d632185872334ff8cd9ffa9ae763838f6a"; // Replace with your BSC Address
 const USDT_CONTRACT_ADDRESS = "0x55d398326f99056b77e6534b23c23245e6d03228"; // BEP20 USDT
 
 const btn = document.getElementById('actionBtn');
